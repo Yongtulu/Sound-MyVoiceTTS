@@ -18,7 +18,7 @@ Created by VSCode+ClaudeCode
 ## Requirements
 
 - Python 3.9+
-- macOS (Apple Silicon recommended for speed)
+- macOS (Apple Silicon)
 
 ## Installation
 
